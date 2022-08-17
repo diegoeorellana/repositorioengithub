@@ -45,4 +45,14 @@ h1{
 }
 footer{
     background-color: bisque;
+    height: 10vh;
+}
+header{
+    height: 20vh;
+    background-color: rgb(194, 120, 25);
+}
+main{
+    height: 70vh;
+    background-color: cyan;
+
 }
