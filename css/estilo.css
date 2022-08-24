@@ -56,3 +56,8 @@ main{
     background-color: rgb(91, 95, 95);
 
 }
+h2 {
+    animation-name: texto;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
